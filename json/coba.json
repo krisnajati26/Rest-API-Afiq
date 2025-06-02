@@ -1,0 +1,18 @@
+[
+{ 
+    "nama" : "Afiq Baihaqi",
+    "umur" : 22,
+    "nim" : "2217020172",
+    "lulus" : false,
+    "hobby" : ["futsal", "renang"],
+    "pembimbing" : "Novia Lestari"
+},
+{ 
+    "nama" : "Krisnajati",
+    "umur" : 22,
+    "nim" : "2217020178",
+    "lulus" : true,
+    "hobby" : ["jogging", "koa"],
+    "pembimbing" : "Raju Wandira"
+} 
+]
